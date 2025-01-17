@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en"
+<head> 
+<meta charset="UTF-8"
+<meta name="viewport" 
+content = "width=device-width,inicial-scale=1,0"
+<title> Meu Primeiro Desafio  HTML </title>
+</head>
+<body>
+<hq> Ola, Mundo do desenvolvimento web!
+<p> Este e o meu primeiro desafio de criaçao de uma pagina HTML. </p>
+</body>
+</html>
+<div>
+    <h1>Meus Hobbies Favoritos</h1>
+    <ul>
+        <li> Ler</li>
+        <li>Programar</li>
+        <li>Jogar videogames</li>
+        <li>Andar de Skate</li>
+        <ul>
+</div>
+
+<div>
+<h2>Minhas Lista de tarefas</h2>
+<ol>
+<li> Estudar html</li>
+<li>Praticar exercicios de Programação</li>
+<li>ler um capitulo de um livro</li>
+ </ol>
+ </div>
+
+
+
